@@ -1,5 +1,4 @@
-
-
+````markdown
 # Development Log — tiny_ai_app
 
 This document records all steps, experiments, and learnings during the creation of **tiny_ai_app**, a small AI-powered summarization tool built as part of the *Tiny AI App Assignment*.
@@ -266,10 +265,7 @@ Observations:
 [GitHub Repo — tiny_ai_app](https://github.com/Devamsingh09/tiny_ai_app)
 
 ✅ **Live Streamlit App:**
-*https://devamsingh.streamlit.app/*
-
----
+*[https://devamsingh.streamlit.app/](https://devamsingh.streamlit.app/)*
 
 ```
-
-
+```
