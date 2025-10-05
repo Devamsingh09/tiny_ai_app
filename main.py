@@ -30,7 +30,7 @@ def fetch_article_text(url):
 
 def summarize_text(text):
     """Summarize the full article text using Groq API"""
-    prompt = f"Summarize the following text into 3 sentences:\n\n{text}"
+    prompt = f"Summarize the following text strictly into 3 sentences:\n\n{text}"
     
     try:
         chat_completion = client.chat.completions.create(
