@@ -11,7 +11,7 @@ This document records all steps, experiments, and learnings during the creation 
   ```bash
   python -m venv venv
   venv\Scripts\activate  # for Windows
-````
+
 
 * Installed required dependencies:
 
