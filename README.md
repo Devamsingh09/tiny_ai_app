@@ -1,6 +1,5 @@
 
 
-```markdown
 # 🧠 tiny_ai_app — AI-Powered Article Summarizer
 
 An intelligent **AI summarization app** that fetches any article or blog post from the web and summarizes it into **3 concise sentences** using **Groq’s Llama 3.3-70B model**.
