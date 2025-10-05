@@ -235,8 +235,9 @@ Observations:
 
 ## 🧩 Workflow Diagram (Text-Based)
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_kz28rzkz28rzkz28" src="https://github.com/user-attachments/assets/34751666-2c0e-4271-82dc-ed8e0b486de8" />
 
+
+<img width="300" height="300" alt="Gemini_Generated_Image_kz28rzkz28rzkz28" src="https://github.com/user-attachments/assets/34751666-2c0e-4271-82dc-ed8e0b486de8" />
 
 ✅ **Final Project Link:**
 [GitHub Repo — tiny_ai_app](https://github.com/Devamsingh09/tiny_ai_app)
