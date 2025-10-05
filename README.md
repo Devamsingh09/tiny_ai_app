@@ -1,5 +1,4 @@
 
-
 # 🧠 tiny_ai_app — AI-Powered Article Summarizer
 
 An intelligent **AI summarization app** that fetches any article or blog post from the web and summarizes it into **3 concise sentences** using **Groq’s Llama 3.3-70B model**.
@@ -22,6 +21,7 @@ This project was built as part of the **Tiny AI App Assignment**, showcasing cre
 
 <img width="300" height="300" alt="Gemini_Generated_Image_kz28rzkz28rzkz28" src="https://github.com/user-attachments/assets/34751666-2c0e-4271-82dc-ed8e0b486de8" />
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -96,6 +96,11 @@ streamlit run app.py
 
 Paste your article URL and click **Summarize** to see the AI-generated summary.
 
+### ⚡ Run Without Cloning (Live App)
+
+No installation needed — use the live deployed app directly:
+👉 [tiny_ai_app on Streamlit Cloud](https://devamsingh.streamlit.app/)
+
 ---
 
 ## 🧠 Example Output
@@ -159,7 +164,7 @@ tiny_ai_app/
 * Quick and stable performance
 
 **Live App Link:**
-👉 *(Add your Streamlit Cloud link here)*
+👉 [tiny_ai_app on Streamlit Cloud](https://devamsingh.streamlit.app/)
 
 ---
 
@@ -181,7 +186,5 @@ tiny_ai_app/
 ---
 
 ### ⭐ If you found this project helpful, please give it a star on GitHub!
-
-```
 
 
